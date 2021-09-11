@@ -6,7 +6,7 @@
 *	Writing complex queries to analyze and visualize Twitter data.
 *	Designing a machine learning model for tweets classification.
 
-Note: visualization are not displayed in .ipynb format. To view visualizations, please download notebooks as HTML.
+Note: visualization are not well displayed. To view visualizations download and open notebooks in Azure Databricks.
 
 ## Authors
 * Omer Madmon
